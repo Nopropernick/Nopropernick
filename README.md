@@ -14,11 +14,11 @@ I'm a passionate computer science student with a focus on machine learning. I en
 
 ## Connect with Me
 📫 You can reach me via email at [abhinavsingh1632@gmail.com](mailto:abhinavsingh1632@gmail.com).
+🌐 Connect with me on LinkedIn:
+[![LinkedIn](linkedin_icon)](https://www.linkedin.com/in/abhinav-singh-4b1049251/)
 
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhinav-singh-4b1049251/) to explore more opportunities.
-
-## Let's Connect
-🐦 Follow me on [Twitter](https://twitter.com/Abhinav65344194) for updates and interesting insights.
+🐦 Follow me on Twitter:
+[![Twitter](twitter_icon)](https://twitter.com/Abhinav65344194)
 
 ## Let's Collaborate
 🤝 I'm open to collaborations and interesting projects. Feel free to reach out!
